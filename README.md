@@ -1,1 +1,3 @@
-# Groupe-20-Intro-to-AI
+# Groupe-20
+
+# Introduction à l'intelligence artificielle | Devoir #1
